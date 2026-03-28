@@ -1,0 +1,12 @@
+@title: Sample Song
+@artist: Demo Artist
+@language: ja
+
+[00:12.34]{id=1;singer=A;lang=ja}こんにちは世界
+[00:12.34]{ref=1;singer=A;lang=en}Hello world
+
+[00:15.50]{id=2;singer=B;lang=ja}新しい時代の幕開けだ
+[00:15.50]{ref=2;singer=B;lang=en}A new era begins
+
+[00:18.00]{id=3;singer=A;lang=ja}音楽は続く
+[00:18.00]{ref=3;singer=A;lang=en}The music continues
